@@ -9,5 +9,5 @@ This template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs
 ## Use
 
 1. Clone repo
-2. npm i
-3. npm run dev
+2. pnpm i
+3. pnpm run dev
